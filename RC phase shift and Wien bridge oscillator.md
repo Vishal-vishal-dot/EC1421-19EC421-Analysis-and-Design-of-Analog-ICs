@@ -1,4 +1,4 @@
-# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+![IMG20251127113110](https://github.com/user-attachments/assets/37f3da76-6d9b-4d66-a129-886fd1e527db)![IMG20251127113110](https://github.com/user-attachments/assets/13cd3df2-00b8-44a3-86c2-ecceb6c6cc93)# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## RC PHASE SHIFT AND WIEN BRIDGE OSCILLATOR
 
 ## AIM:
@@ -17,13 +17,17 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM:
 ### RC PHASE SHIFT OSCILLATOR:
+![IMG20251127113050](https://github.com/user-attachments/assets/9802746d-5b02-4c32-b0d4-6a157d418008)
 
 ### WEIN BRIDGE:
+![IMG20251127113105](https://github.com/user-attachments/assets/53e5faa7-047e-4a2f-ba4d-a4cebcb82903)
 
 ## MODEL GRAPH:
 ### RC PHASE SHIFT OSCILLATOR:
+![IMG20251127113054](https://github.com/user-attachments/assets/be956fa1-8526-489a-a658-1d27272e10d4)
 
 ### WEIN BRIDGE:
+![IMG20251127113108](https://github.com/user-attachments/assets/bbddbeb8-b3be-48ea-ab71-bd06700fe021)
 
 ## PROCEDURE:
 1. Connect the circuit as shown in fig. With the design values.
@@ -34,19 +38,22 @@ The frequency of oscillation is given by fo = 1/2πRC
 <img width="645" height="758" alt="image" src="https://github.com/user-attachments/assets/d2e7cd3f-8c88-44aa-8ac3-807b92beabba" />
 
 ## TABULATION:
-### RC PHASE SHIFT OSCILLATOR:
-
+### RC PHASESHIFT OSCILLATOR:
+![IMG20251127113057](https://github.com/user-attachments/assets/4a178e47-dd1e-42d7-a93b-d4e232d6fa69)
 ### WEIN BRIDGE:
+![IMG20251127113110](https://github.com/user-attachments/assets/08c47ad9-8689-45e2-bfcc-81003c8b1989)
 
-## CALCULATIONS:
-### RC PHASE SHIFT OSCILLATOR:
 
-### WEIN BRIDGE:
 
 ## GRAPH:
 ### RC PHASE SHIFT OSCILLATOR:
 
+![IMG20251127113118](https://github.com/user-attachments/assets/a75cd2ee-07c7-4063-b2a8-ed9cb1ec0397)
+
+
 ### WEIN BRIDGE:
+![IMG20251127113122](https://github.com/user-attachments/assets/f6a52d37-8f2e-4553-b99f-6bfab0eb006e)
+
 
 ## RESULT:
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
