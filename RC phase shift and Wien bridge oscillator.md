@@ -1,4 +1,4 @@
-![IMG20251127113110](https://github.com/user-attachments/assets/37f3da76-6d9b-4d66-a129-886fd1e527db)![IMG20251127113110](https://github.com/user-attachments/assets/13cd3df2-00b8-44a3-86c2-ecceb6c6cc93)# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+# EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## RC PHASE SHIFT AND WIEN BRIDGE OSCILLATOR
 
 ## AIM:
