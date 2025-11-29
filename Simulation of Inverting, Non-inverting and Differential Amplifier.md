@@ -36,15 +36,21 @@ LT-Spice
 
 <img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/ca8da142-0cde-467a-a671-8cb7ca3768c1" />
 
+![IMG_20251129_133045](https://github.com/user-attachments/assets/f9c3e8bc-0af3-4c87-9c4c-fd77529c05ef)
+
+![IMG_20251129_133025](https://github.com/user-attachments/assets/a11c37da-fb4a-4d7f-8290-edc5151ac04b)
 
 ### NON-INVERTING AMPLIFIER:
 
 <img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/e7072de9-5d9c-4f74-be86-ab1be8be0c35" />
 
+![IMG_20251129_133102](https://github.com/user-attachments/assets/6f896bd9-3c10-489e-a3b5-e531b9f1080b)
 
 ### DIFFERENTIAL AMPLIFIER:
 
 <img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/e290f3e1-ff43-4370-aeb8-2fe9ccbeeda9" />
+
+![IMG_20251129_133007](https://github.com/user-attachments/assets/fcb1da29-63d3-4b21-9f48-c3e2ed55fc54)
 
 
 ## RESULT:
