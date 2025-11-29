@@ -1,4 +1,4 @@
-## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
+![IMG_20251129_133518](https://github.com/user-attachments/assets/bf7c3be0-9bc2-4041-9ebc-7287aa236f79)## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 ## Simulation of active low pass, high pass and band pass filters using op-amp.
 
 ## AIM:
@@ -41,13 +41,19 @@ LT-Spice
 
 <img width="1913" height="1117" alt="image" src="https://github.com/user-attachments/assets/8c9199a1-6a4d-48ac-9eaa-65ca41d8b5d2" />
 
+![IMG_20251129_133505](https://github.com/user-attachments/assets/c9176f6f-9b07-4ef7-b494-d416a54ad5b4)
+
 ### HIGHPASS FILTER:
 
 <img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/5eee08b1-3418-421a-ba73-d448bd8504d3" />
 
+![IMG_20251129_133518](https://github.com/user-attachments/assets/8e87e207-8e77-4c87-be27-8b5bdfa7adbe)
+
 ### BANDPASS FILTER:
 
 <img width="1915" height="1107" alt="image" src="https://github.com/user-attachments/assets/64cb6b3f-e771-400d-89ed-494155edabe1" />
+
+![IMG_20251129_133448](https://github.com/user-attachments/assets/148a45b2-4e48-4a24-a700-f2162ff6e45e)
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
